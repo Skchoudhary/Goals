@@ -1,5 +1,7 @@
 # Goals
 
+* To become Good Full Stack Developer.
+
 # Priority Order
 
 1. JavaScrpit[Front-end Developer]
@@ -9,8 +11,6 @@
 5. HTML5 Canvas API[Front-end]
 6. SQl[Databse]
 7. MongoDB[Database]
-
-# To become Good Full Stack Developer.
 
 ***
 ## Front-end Developer
@@ -45,7 +45,21 @@ listed courses quarterly goal.
 # Random
 * To try my hands on Raspberry Pi.
 
+***
 
+# Task to achieve Goal.
+
+## JavaScript
+
+* [You-Dont-Know-JS] (https://github.com/getify/You-Dont-Know-JS)--Time 7 weeks
+* [Mozilla JS Guide] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)--Time 4 weeks
+* Mastering React [eBook]--Time 4 weeks
+
+## Python
+
+* [pymbook](http://pymbook.readthedocs.io/en/latest/)--Time 1 week
+* Learning Python Design Patterns [eBook] --Time 4 weeks
+* Python Unlocked [eBook] --Time 3 Weeks  
 
 
 
