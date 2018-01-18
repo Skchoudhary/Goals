@@ -61,6 +61,8 @@ listed courses quarterly goal.
 * Learning Python Design Patterns [eBook] --Time 4 weeks
 * Python Unlocked [eBook] --Time 3 Weeks  
 
+**CLOCKED TIME FORMAT**
 
+CLOCK: [2017-04-21 Fri 20:15]--[2017-04-21 Fri 22:20] =>  2:05
 
 
