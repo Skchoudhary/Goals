@@ -21,7 +21,7 @@
 
 CHAPTERS | BOOK NAME | TIME ESTIMATED (In Hour) | STATUS | Observed time
 --- | --- | --- | --- | --
-**Chapter 1: Into Programming** |  Up & Going  | Two Hours |  | 
+**Chapter 1: Into Programming** |  Up & Going  | Two Hours | Two Hours | 
 **Chapter 2: Into JavaScript** | Up & Going | Two Hours |  | 
 **Chapter 3: Into YDKJS** | Up & Going| One Hours |  | 
 **Chapter 1: What is Scope?** | Scope & Closures | Three Hours |  | 
