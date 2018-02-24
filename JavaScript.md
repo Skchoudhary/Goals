@@ -38,7 +38,7 @@ CHAPTERS | BOOK NAME | TIME ESTIMATED (In Hour) | STATUS | Observed time
 **Appendix A: ES6 class** | this & Object Prototypes | One Hours |  | 
 **Chapter 1: Types** | Types & Grammer | One Hour |  |
 **Chapter 2: Values** | Types & Grammer | One Hur |  |
-**Chapter 3: Natives ** | Types & Grammer | One Hour |  |
+**Chapter 3: Natives** | Types & Grammer | One Hour |  |
 
 
 
