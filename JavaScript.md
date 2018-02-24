@@ -23,21 +23,21 @@ CHAPTERS | BOOK NAME | TIME ESTIMATED (In Hour) | STATUS | Observed time
 --- | --- | --- | --- | --
 **Chapter 1: Into Programming** |  Up & Going  | Two Hours | Done | -- 
 **Chapter 2: Into JavaScript** | Up & Going | Two Hours | Done | -- 
-**Chapter 3: Into YDKJS** | Up & Going| One Hours | Done | -- 
+**Chapter 3: Into YDKJS** | Up & Going| One Hour | Done | -- 
 **Chapter 1: What is Scope?** | Scope & Closures | Three Hours | Done | -- 
 **Chapter 2: Lexical Scope** |  Scope & Closures | Two Hours | Done | --
 **Chapter 3: Function vs. Block Scope** |  Scope & Closures | Two Hours | Done | -- 
-**Chapter 4: Hoisting** |  Scope & Closures | One hours | Done | -- 
+**Chapter 4: Hoisting** |  Scope & Closures | One hour | Done | -- 
 **Chapter 5: Scope Closure** |  Scope & Closures | Three Hours | Done | -- 
-**Chapter 1: this Or That?** | this & Object Prototypes | One Hours | Done | -- 
+**Chapter 1: this Or That?** | this & Object Prototypes | One Hour | Done | -- 
 **Chapter 2: this All Makes Sense Now!** | this & Object Prototypes | Three Hours | Done | -- 
 **Chapter 3: Objects** | this & Object Prototypes | Four Hours | Done | -- 
 **Chapter 4: Mixing (Up) "Class" Objects** | this & Object Prototypes | Four Hours | Done | -- 
 **Chapter 5: Prototypes** | this & Object Prototypes | Four Hours | INPROGRESS | 
 **Chapter 6: Behavior Delegation** | this & Object Prototypes | Four Hours |  | 
-**Appendix A: ES6 class** | this & Object Prototypes | One Hours |  | 
+**Appendix A: ES6 class** | this & Object Prototypes | One Hour |  | 
 **Chapter 1: Types** | Types & Grammer | One Hour |  |
-**Chapter 2: Values** | Types & Grammer | One Hur |  |
+**Chapter 2: Values** | Types & Grammer | One Hour |  |
 **Chapter 3: Natives** | Types & Grammer | One Hour |  |
 
 
